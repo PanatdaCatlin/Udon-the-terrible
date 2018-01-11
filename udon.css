@@ -1,0 +1,16 @@
+h1 {
+    Color: purple;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    text-align: left;
+    text-transform: lowercase;
+}
+
+ol{
+    color: green;
+    text-align: right;
+    text-decoration: underline;
+  }
